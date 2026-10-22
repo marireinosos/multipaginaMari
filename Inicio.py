@@ -1,2 +1,3 @@
-Import streamlit as st
-st.tittle("Pagina Inicio")
+import streamlit as st
+
+st.title("Página Inicio")
