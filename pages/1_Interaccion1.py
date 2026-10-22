@@ -1,3 +1,1 @@
-import streamlit as st
-
-st.tittle("Interaccion_1")
+st.title("Interaccion_1")
